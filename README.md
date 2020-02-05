@@ -3,6 +3,7 @@ for practicing branching etc
 
 This one thing I want to commit.
 
-Here's another FANTASTIC thing
+Here's another great thing
 
-# 
+
+This is Anna's addition
